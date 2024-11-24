@@ -66,6 +66,6 @@ res = requests.post('https://api.likesjet.com/freeboost/7', json = {
     'referer': 'https://likesjet.com/',
     'accept-language': 'en-XA,en;q=0.9,ar-XB;q=0.8,ar;q=0.7,en-GB;q=0.6,en-US;q=0.5' }).json()
 print(res['message'])
-print('\x1b[38;5;82m: \x1b[31;1m[√] Successfully 50 Like send By @hackingareas, Now come back after 24 Hours')
+print('\x1b[38;5;82m: \x1b[31;1m[√] Successfully 50 Like send By @rifatkhan6065, Now come back after 24 Hours')
 
 
